@@ -13,33 +13,32 @@
 
 ## 😉 Sobre Mim
 
-- 🖥️ Confira o meu **[Portfólio](https://marcos-kuribayashi.vercel.app)**
+Sou um grande admirador da tecnologia e adoro criar soluções que impactam positivamente a vida das pessoas.
 
-- 🌍 Moro em São Paulo, SP
+- 🖥️ Confira o meu **[Portfólio](https://marcos-kuribayashi.vercel.app)** e meu **[LinkedIn](https://www.linkedin.com.br/in/marcos-kuribayashi)**
 
-- 🔭 Atualmente, trabalho na **[Conectadoc](https://conectadoc.com.br/)** como Desenvolvedor Full-Stack Júnior
+- 🌍 Moro em São Paulo, SP - Brasil
+  
+- 📚 Desenvolvedor de software formado pela **[Kenzie Academy Brasil](https://kenzie.com.br/)**
 
-- 🌱 No momento, estou aprendendo **Next.js**, **Firebase**, **Sass** e **Tailwind**
+- 🔭 Atuei como Desenvolvedor Full-Stack Júnior na **[Conectadoc](https://conectadoc.com.br/)**
 
-- 📚 Estudei Desenvolvimento Web Full-Stack na **[Kenzie Academy Brasil](https://kenzie.com.br/)**
+- 🌱 No momento, estou aprendendo **Next.js** e **Tailwind**
 
 - ✉️ Você pode entrar em contato comigo em **[marcosken13@gmail.com](mailto:marcosken13@gmail.com)**
 
-Sou um admirador da tecnologia, da praticidade que ela proporciona em nossas vidas e do seu potencial transformador.
 
 ## 🛠️ Ferramentas e Tecnologias
 
 ### Habilidades:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
 
 ### Conhecimentos:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" /> 
 
 ## 📈 GitHub Stats
-
-
 
 <div align="center">
   <a href="http://www.github.com/kenmarcos"><img src="https://github-readme-stats.vercel.app/api?username=kenmarcos&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kenmarcos's GitHub stats" /></a>
