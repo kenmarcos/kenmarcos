@@ -1,36 +1,30 @@
 <h1 align="center">
-  Olá, eu sou o Marcos! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  Hello, I'm Marcos! 
 </h1>
-
 <div>
   <p>
-    Seja bem-vindo ao meu perfil do GitHub 👨‍💻
+    Welcome to my GitHub profile 👨‍💻
   </p>
-<!--   <a href="https://marcos-kuribayashi.vercel.app">
-    <strong>Meu Portfólio</strong>
-  </a> -->
 </div>
 
-## 😉 Sobre Mim
+## 😉 About Me
 
-Sou um admirador de tecnologia e programação e adoro criar soluções que impactam positivamente a vida das pessoas.
+- 🖥️ See my **[Portfólio](https://marcos-website.vercel.app)**
 
-- 🖥️ Confira o meu **[Portfólio](https://marcos-kuribayashi.vercel.app)** e meu **[LinkedIn](https://www.linkedin.com.br/in/marcos-kuribayashi)**
-
-- 🌍 Moro em São Paulo, SP - Brasil
+- 🌍 I'm based in São Paulo, SP - Brazil
   
-- 📚 Desenvolvedor Full-Stack formado na **[Kenzie Academy Brasil](https://kenzie.com.br/)**
+- 📚 I am a certified full-stack developer from **[Kenzie Academy](https://kenzie.com.br/)**
 
-- 🔭 Atuei como Desenvolvedor Full-Stack Júnior na **[Conectadoc](https://conectadoc.com.br/)**
+- 🔭 I worked as a Junior Full-Stack Developer at **[Conectadoc](https://conectadoc.com.br/)**
+  
+- 💼 See details of my professional career on my **[LinkedIn](https://www.linkedin.com.br/in/marcos-kuribayashi)**
 
-- 🌱 No momento, tenho aprofundado meus conhecimentos em tecnologias back-end
+<!-- - 🌱 No momento, tenho aprofundado meus conhecimentos em tecnologias back-end -->
 
-- ✉️ Você pode entrar em contato comigo em **[marcosken13@gmail.com](mailto:marcosken13@gmail.com)**
+- ✉️ You can contact me at **[marcosken13@gmail.com](mailto:marcosken13@gmail.com)**
 
 
-## 🛠️ Ferramentas e Tecnologias
-
-### Habilidades:
+## 🛠️ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,redux" />
 
@@ -51,7 +45,7 @@ Sou um admirador de tecnologia e programação e adoro criar soluções que impa
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kenmarcos&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Contribution%20Chart" />
 <div>
 
-## 📬 Meus Contatos
+## 📬 Contacts
 <div>
   <a href="https://www.linkedin.com/in/marcos-kuribayashi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank" />   
   <a href = "mailto:marcosken13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" target="_blank" />
