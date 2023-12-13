@@ -15,11 +15,9 @@
   
 - 📚 I am a certified full-stack developer from **[Kenzie Academy](https://kenzie.com.br/)**
 
-- 🔭 I worked as a Junior Full-Stack Developer at **[Conectadoc](https://conectadoc.com.br/)**
+- 🔭 I'm a Full-Stack Developer at **[Grupo CVLB](https://www.linkedin.com/company/grupo-cvlb/)**
   
 - 💼 See details of my professional career on my **[LinkedIn](https://www.linkedin.com.br/in/marcos-kuribayashi)**
-
-<!-- - 🌱 No momento, tenho aprofundado meus conhecimentos em tecnologias back-end -->
 
 - ✉️ You can contact me at **[marcosken13@gmail.com](mailto:marcosken13@gmail.com)**
 
